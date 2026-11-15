@@ -36,3 +36,5 @@ class ClassifierTrainer:
         print(f"Model saved to: {model_path}")
 
         return model_path
+
+    
